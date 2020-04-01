@@ -1,0 +1,67 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "5",
+      "name": "Club penguin",
+      "publisher": "DGO",
+      "tray_image_file": "STK-20190504-WA0346.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file":"STK-20190430-WA0161.webp"},
+        {"image_file":"STK-20190430-WA0231.webp"},
+        {"image_file":"STK-20190430-WA0895.webp"},
+        {"image_file":"STK-20190430-WA0931.webp"},
+        {"image_file":"STK-20190430-WA0941.webp"},
+        {"image_file":"STK-20190430-WA1133.webp"},
+        {"image_file":"STK-20190501-WA0056.webp"},
+        {"image_file":"STK-20190501-WA0085.webp"},
+        {"image_file":"STK-20190501-WA0087.webp"},
+        {"image_file":"STK-20190501-WA0088.webp"},
+        {"image_file":"STK-20190501-WA0089.webp"},
+        {"image_file":"STK-20190501-WA0091.webp"},
+        {"image_file":"STK-20190501-WA0092.webp"},
+        {"image_file":"STK-20190501-WA0095.webp"},
+        {"image_file":"STK-20190501-WA0097.webp"},
+        {"image_file":"STK-20190501-WA0102.webp"},
+        {"image_file":"STK-20190501-WA0434.webp"},
+        {"image_file":"STK-20190501-WA0463.webp"},
+        {"image_file":"STK-20190501-WA0465.webp"},
+        {"image_file":"STK-20190503-WA0186.webp"},
+        {"image_file":"STK-20190504-WA0346.webp"},
+        {"image_file":"STK-20190504-WA0348.webp"},
+        {"image_file":"STK-20190504-WA0620.webp"},
+        {"image_file":"STK-20190504-WA0652.webp"},
+        {"image_file":"STK-20190504-WA0723.webp"},
+        {"image_file":"STK-20190510-WA0121.webp"},
+        {"image_file":"STK-20190511-WA0159.webp"},
+        {"image_file":"STK-20190521-WA0040.webp"},
+        {"image_file":"STK-20190531-WA0013.webp"},
+        {"image_file":"STK-20190727-WA0059.webp"}
+      ]
+    },
+    {
+      "identifier": "7",
+      "name": "Toy",
+      "publisher": "DGO",
+      "tray_image_file": "STK-20190517-WA0054.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file":"STK-20190517-WA0054.webp"},
+        {"image_file":"STK-20190517-WA0055.webp"},
+        {"image_file":"STK-20190517-WA0056.webp"}
+      ]
+    }
+  ]
+}
