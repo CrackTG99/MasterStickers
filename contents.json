@@ -62,45 +62,6 @@
         {"image_file":"STK-20190517-WA0055.webp"},
         {"image_file":"STK-20190517-WA0056.webp"}
       ]
-    },
-	  {
-      "identifier": "10",
-      "name": "Varios",
-      "publisher": "DGO",
-      "tray_image_file": "STK-20190319-WA0001.webp",
-      "image_data_version":"1",
-      "avoid_cache":false,
-      "publisher_email":"",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {"image_file":"STK-20181215-WA0003.webp"},
-        {"image_file":"STK-20181215-WA0005.webp"},
-        {"image_file":"STK-20181231-WA0004.webp"},
-        {"image_file":"STK-20190125-WA0000.webp"},
-        {"image_file":"STK-20190206-WA0004.webp"},
-        {"image_file":"STK-20190218-WA0024.webp"},
-        {"image_file":"STK-20190218-WA0028.webp"},
-        {"image_file":"STK-20190219-WA0013.webp"},
-        {"image_file":"STK-20190219-WA0014.webp"},
-        {"image_file":"STK-20190219-WA0020.webp"},
-        {"image_file":"STK-20190220-WA0002.webp"},
-        {"image_file":"STK-20190305-WA0009.webp"},
-        {"image_file":"STK-20190311-WA0005.webp"},
-        {"image_file":"STK-20190319-WA0001.webp"},
-        {"image_file":"STK-20190331-WA0008.webp"},
-        {"image_file":"STK-20190331-WA0010.webp"},
-        {"image_file":"STK-20190403-WA0004.webp"},
-        {"image_file":"STK-20190403-WA0013.webp"},
-        {"image_file":"STK-20190412-WA0006.webp"},
-        {"image_file":"STK-20190412-WA0007.webp"},
-        {"image_file":"STK-20190412-WA0009.webp"},
-        {"image_file":"STK-20190413-WA0000.webp"},
-        {"image_file":"STK-20190416-WA0011.webp"},
-        {"image_file":"STK-20190425-WA0008.webp"},
-        {"image_file":"STK-20190425-WA0011.webp"}
-      ]
     }
   ]
 }
