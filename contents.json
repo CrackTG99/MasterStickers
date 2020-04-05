@@ -44,6 +44,13 @@
         {"image_file":"STK-20190521-WA0040.webp"},
         {"image_file":"STK-20190531-WA0013.webp"},
         {"image_file":"STK-20190727-WA0059.webp"}
+      ],
+      "preview": [
+        {"image_file":"STK-20190430-WA0161.webp"},
+        {"image_file":"STK-20190430-WA0231.webp"},
+        {"image_file":"STK-20190430-WA0895.webp"},
+        {"image_file":"STK-20190430-WA0931.webp"},
+        {"image_file":"STK-20190430-WA0941.webp"}
       ]
     },
     {
@@ -58,6 +65,11 @@
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
+        {"image_file":"STK-20190517-WA0054.webp"},
+        {"image_file":"STK-20190517-WA0055.webp"},
+        {"image_file":"STK-20190517-WA0056.webp"}
+      ],
+      "preview": [
         {"image_file":"STK-20190517-WA0054.webp"},
         {"image_file":"STK-20190517-WA0055.webp"},
         {"image_file":"STK-20190517-WA0056.webp"}
