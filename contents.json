@@ -114,9 +114,6 @@
           "image_file": "25_Cuppy_battery.webp",
           "emojis": ["🔋","😵"]
         }
-      ],
-      "preview": [
-        {"image_file":"01_Cuppy_smile.webp"}
       ]
     },
     {
@@ -161,9 +158,6 @@
         {"image_file":"STK-20190524-WA0007.webp"},
         {"image_file":"STK-20190728-WA0080.webp"},
         {"image_file":"STK-20190728-WA0081.webp"}
-      ],
-      "preview": [
-        {"image_file":"STK-20190430-WA0111.webp"}
       ]
     },
     {
@@ -202,9 +196,6 @@
         {"image_file":"STK-20190524-WA0071.webp"},
         {"image_file":"STK-20190603-WA0034.webp"},
         {"image_file":"STK-20190701-WA0100.webp"}
-      ],
-      "preview": [
-        {"image_file":"STK-20190218-WA0031.webp"}
       ]
     },
     {
@@ -249,9 +240,6 @@
         {"image_file":"STK-20190518-WA0019.webp"},
         {"image_file":"STK-20190605-WA0007.webp"},
         {"image_file":"STK-20190727-WA0053.webp"}
-      ],
-      "preview": [
-        {"image_file":"STK-20190430-WA0175.webp"}
       ]
     },
     {
@@ -296,9 +284,6 @@
         {"image_file":"STK-20190521-WA0040.webp"},
         {"image_file":"STK-20190531-WA0013.webp"},
         {"image_file":"STK-20190727-WA0059.webp"}
-      ],
-      "preview": [
-        {"image_file":"STK-20190430-WA0161.webp"}
       ]
     },
     {
@@ -321,9 +306,6 @@
         {"image_file":"STK-20190315-WA0004.webp"},
         {"image_file":"STK-20190315-WA0005.webp"},
         {"image_file":"STK-20190413-WA0003.webp"}
-      ],
-      "preview": [
-        {"image_file":"STK-20190117-WA0010.webp"}
       ]
     },
     {
@@ -341,9 +323,6 @@
         {"image_file":"STK-20190517-WA0054.webp"},
         {"image_file":"STK-20190517-WA0055.webp"},
         {"image_file":"STK-20190517-WA0056.webp"}
-      ],
-      "preview": [
-        {"image_file":"STK-20190517-WA0054.webp"}
       ]
     },
     {
@@ -374,9 +353,6 @@
         {"image_file":"STK-20190510-WA0020.webp"},
         {"image_file":"STK-20190510-WA0355.webp"},
         {"image_file":"STK-20190704-WA0017.webp"}
-      ],
-      "preview": [
-        {"image_file":"STK-20190412-WA0011.webp"}
       ]
     },
     {
@@ -397,9 +373,6 @@
         {"image_file":"STK-20200329-WA0003.webp"},
         {"image_file":"STK-20200329-WA0004.webp"},
         {"image_file":"STK-20200329-WA0005.webp"}
-      ],
-      "preview": [
-        {"image_file":"STK-20200329-WA0000.webp"}
       ]
     },
     {
@@ -439,9 +412,6 @@
         {"image_file":"STK-20190416-WA0011.webp"},
         {"image_file":"STK-20190425-WA0008.webp"},
         {"image_file":"STK-20190425-WA0011.webp"}
-      ],
-      "preview": [
-        {"image_file":"STK-20181215-WA0003.webp"}
       ]
     }
   ]
